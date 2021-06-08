@@ -28,7 +28,7 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
 ### FNF Gerald y Steve Edition
 - [GeraldySteve](https://www.youtube.com/channel/UCHANxvdCr6sAdTZwjodJ0FQ) - Programming, Sprites and Dialogues
-- [KamilGames](https://www.youtube.com/watch?v=OR7fP9jflYM) - Kamil Games Sprites and Kamil voice
+- [KamilGames](https://www.youtube.com/channel/UCxKM2o2aX-Ctf9Rmw9Vuoeg) - Kamil Games Sprites and Kamil voice
 - [NunoCraft](https://www.youtube.com/channel/UCc9atpI3t-4eS67g0es5lxQ) - Nuno Voice
 
 # Other pages
