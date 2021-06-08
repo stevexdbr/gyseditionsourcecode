@@ -24,7 +24,7 @@ Links: **[proximamente en navegador](https://funkin.puyo.xyz)**
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 ### Kade Engine
-- [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
+- [KadeDeveloper](https://twitter.com/KadeDeveloper) - Creator of Kade Engine
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
 - [GeraldySteve](https://www.youtube.com/channel/UCHANxvdCr6sAdTZwjodJ0FQ) - Sprites and Dialogues
 
