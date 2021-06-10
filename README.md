@@ -10,8 +10,6 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 ## FNF GYS Edition
 **FNF GYS Edition** is a mod for Friday Night Funkin', maded with the source code of Kade Engine.
 
-Links: **[proximamente en navegador](https://funkin.puyo.xyz)**
-
 **REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
 
 
