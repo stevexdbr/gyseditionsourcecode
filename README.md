@@ -28,6 +28,7 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [GeraldySteve](https://www.youtube.com/channel/UCHANxvdCr6sAdTZwjodJ0FQ) - Programming, Sprites and Dialogues
 - [KamilGames](https://www.youtube.com/channel/UCxKM2o2aX-Ctf9Rmw9Vuoeg) - Kamil Games Sprites and Kamil voice
 - [NunoCraft](https://www.youtube.com/channel/UCc9atpI3t-4eS67g0es5lxQ) - Nuno Voice
+- [MatiasAlban](https://www.youtube.com/channel/UCwobaBVLs4Z4rrioBauKt9w) - Matias Voice
 
 # Other pages
  - [BUILDING.md](https://github.com/KadeDev/Kade-Engine/blob/master/BUILDING.md) - How to compile/build the game
